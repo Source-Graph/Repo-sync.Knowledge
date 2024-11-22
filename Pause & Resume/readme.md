@@ -1,4 +1,5 @@
 sch:
+- https://www.google.com/search?q=repo+sync+resume
 - https://www.google.com/search?q=android+repo+sync+restart
 
 # Discuss:
