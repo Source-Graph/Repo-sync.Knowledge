@@ -7,3 +7,6 @@ sch:
 
 # Discuss:
 - [Pausing & Resume Android Repo Sync](https://stackoverflow.com/questions/12555835/pausing-resume-android-repo-sync)
+
+# Solution: Rsync
+https://superuser.com/questions/860758/recover-incomplete-download-in-android-open-source-project
